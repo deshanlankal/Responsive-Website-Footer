@@ -3,7 +3,7 @@
 
 # Responsive Footer
 
-![Footer Preview](footer_preview.png)
+![Footer Preview](wave.png)
 
 This project features a responsive footer designed using HTML, CSS, and JavaScript. The footer includes social media icons, navigation links, and a dynamic copyright year.
 
